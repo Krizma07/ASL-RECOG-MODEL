@@ -1,6 +1,7 @@
 venv/
 dataset/
-models/
+models/asl_model.keras
+models/history.json
 test.py
 sign_mnist_test.csv
 sign_mnist_train.csv
