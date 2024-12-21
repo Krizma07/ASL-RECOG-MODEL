@@ -1,8 +1,9 @@
 venv/
 dataset/
-models/asl_model.keras
-models/accuracy_plot.png
-models/loss_plot.png
-models/Model_Accuracy.png
-models/Model_Loss.png
-randomimages/
+models/
+test.py
+sign_mnist_test.csv
+sign_mnist_train.csv
+extract_test.py
+extract_train.py
+.vscode/
